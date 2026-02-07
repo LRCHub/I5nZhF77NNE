@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "イマジナリーフレンド",
+  "base_artist": "春猿火",
+  "createdAt": "2026-02-07T03:57:51.957458Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "イマジナリーフレンド",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_イマジナリーフレンド_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "イマジナリーフレンド",
+      "artist": "春猿火",
+      "has_synced": false,
+      "path": "select/pl_01_イマジナリーフレンド_春猿火.txt"
+    }
+  ]
+}
